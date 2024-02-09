@@ -35,3 +35,15 @@ const MyComponent: React.FC<MyComponentProps> = ({ name }) => {
 export default MyComponent;
 
 ```
+<br>
+<br>
+
+# How can I define an array of objects?
+```typescript
+let userTestStatus: { id: number, name: string }[] = [
+    { "id": 0, "name": "Available" },
+    { "id": 1, "name": "Ready" },
+    { "id": 2, "name": "Started" }
+];
+
+```
