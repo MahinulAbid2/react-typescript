@@ -54,6 +54,11 @@ let userTestStatus: { id: number, name: string }[] = [
 # What is todo file in vscode?
 https://stackoverflow.com/questions/71328373/how-to-use-todo-files-in-vs-code
 
+<br>
+
+# TypeScript - Declare a function callback type
+https://trungvose.com/experience/typescript-function-callback-type/#:~:text=TL%3BDR%20To%20define%20the,)%20%7B%20callback('Hi!'
+
 
 
 
